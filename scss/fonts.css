@@ -1,0 +1,154 @@
+@font-face {
+  font-family: "Northwell";
+  src: url("../assets/fonts/Northwell.woff2") format("woff2"), url("../assets/fonts/Northwell.woff") format("woff");
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+@font-face {
+  font-family: "Northwell Alt";
+  src: url("../assets/fonts/Northwell-Alt.woff2") format("woff2"), url("../assets/fonts/Northwell-Alt.woff") format("woff");
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+@font-face {
+  font-family: "Northwell Alt";
+  src: url("../assets/fonts/Northwell-Alt.woff2") format("woff2"), url("../assets/fonts/Northwell-Alt.woff") format("woff");
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+@font-face {
+  font-family: "Northwell Alt";
+  src: url("../assets/fonts/Northwell-Alt.woff2") format("woff2"), url("../assets/fonts/Northwell-Alt.woff") format("woff");
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+@font-face {
+  font-family: "Northwell Alt";
+  src: url("../assets/fonts/Northwell-Alt.woff2") format("woff2"), url("../assets/fonts/Northwell-Alt.woff") format("woff");
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+@font-face {
+  font-family: "Northwell Alt";
+  src: url("../assets/fonts/Northwell-Alt.woff2") format("woff2"), url("../assets/fonts/Northwell-Alt.woff") format("woff");
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+@font-face {
+  font-family: "Northwell Alt";
+  src: url("../assets/fonts/Northwell-Alt.woff2") format("woff2"), url("../assets/fonts/Northwell-Alt.woff") format("woff");
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+@font-face {
+  font-family: "Northwell Swash";
+  src: url("../assets/fonts/Northwell-Swash.woff2") format("woff2"), url("../assets/fonts/Northwell-Swash.woff") format("woff");
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+@font-face {
+  font-family: "Northwell Swash";
+  src: url("../assets/fonts/Northwell-Swash.woff2") format("woff2"), url("../assets/fonts/Northwell-Swash.woff") format("woff");
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+@font-face {
+  font-family: "Northwell Swash";
+  src: url("../assets/fonts/Northwell-Swash.woff2") format("woff2"), url("../assets/fonts/Northwell-Swash.woff") format("woff");
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+@font-face {
+  font-family: "Northwell Swash";
+  src: url("../assets/fonts/Northwell-Swash.woff2") format("woff2"), url("../assets/fonts/Northwell-Swash.woff") format("woff");
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+@font-face {
+  font-family: "Northwell Swash";
+  src: url("../assets/fonts/Northwell-Swash.woff2") format("woff2"), url("../assets/fonts/Northwell-Swash.woff") format("woff");
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+@font-face {
+  font-family: "Northwell Swash";
+  src: url("../assets/fonts/Northwell-Swash.woff2") format("woff2"), url("../assets/fonts/Northwell-Swash.woff") format("woff");
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+@font-face {
+  font-family: "Northwell";
+  src: url("../assets/fonts/Northwell.woff2") format("woff2"), url("../assets/fonts/Northwell.woff") format("woff");
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+@font-face {
+  font-family: "Northwell";
+  src: url("../assets/fonts/Northwell.woff2") format("woff2"), url("../assets/fonts/Northwell.woff") format("woff");
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+@font-face {
+  font-family: "Northwell";
+  src: url("../assets/fonts/Northwell.woff2") format("woff2"), url("../assets/fonts/Northwell.woff") format("woff");
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+@font-face {
+  font-family: "Northwell";
+  src: url("../assets/fonts/Northwell.woff2") format("woff2"), url("../assets/fonts/Northwell.woff") format("woff");
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+@font-face {
+  font-family: "Northwell";
+  src: url("../assets/fonts/Northwell.woff2") format("woff2"), url("../assets/fonts/Northwell.woff") format("woff");
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+@font-face {
+  font-family: "Modernline";
+  src: url("../assets/fonts/modernline.otf");
+  font-weight: 700;
+  font-style: normal;
+  font-display: swap;
+}
+@font-face {
+  font-family: "Nexa Bold";
+  src: url("../assets/fonts/Nexa-Font/Nexa Bold.otf");
+  font-weight: 700;
+  font-style: normal;
+  font-display: swap;
+}
+@font-face {
+  font-family: "Nexa Light";
+  src: url("../assets/fonts/Nexa-Font/Nexa Light.otf");
+  font-weight: 300;
+  font-style: normal;
+  font-display: swap;
+}
+@font-face {
+  font-family: "Nexa Regular";
+  src: url("../assets/fonts/Nexa-Font/NexaRegular.otf");
+  font-weight: 500;
+  font-style: normal;
+  font-display: swap;
+}/*# sourceMappingURL=fonts.css.map */
